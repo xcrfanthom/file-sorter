@@ -1,8 +1,8 @@
 import os
 import shutil
 
-source_folder = r"C:\Users\ASUS\Downloads"
-destination_folder = r"C:\Users\ASUS\Desktop\Files"
+source_folder = r"Add source folder directory"
+destination_folder = r"Add destination folder directory"
 
 if not os.path.exists(destination_folder):
     os.mkdir(destination_folder)
